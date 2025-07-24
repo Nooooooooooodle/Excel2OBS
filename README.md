@@ -6,6 +6,7 @@ excel2OBS is a very convenient software that make obs to read Excel data which i
 
 ### What new
 Added scroll bars to prevent content overflow when large amounts of data exceed the screen size.
+
 Support for saving and loading Configuration.
 ## Quick introduction
 
@@ -24,4 +25,5 @@ https://github.com/Nooooooooooodle/Excel2OBS/releases
 
 ## Follow on BiliBili
 https://space.bilibili.com/16555556
+
 https://space.bilibili.com/390298544
