@@ -1,5 +1,5 @@
 # Excel2OBS
- Make OBS read excel data. A fork of github.com/loseisbest/Excel2OBS
+ Make OBS read excel data. A fork of https://github.com/loseisbest/Excel2OBS
 
 ### What is Excel2OBS?
 excel2OBS is a very convenient software that make obs to read Excel data which include texts and pictures.
