@@ -4,7 +4,7 @@
 ### What is Excel2OBS?
 excel2OBS is a very convenient software that make obs to read Excel data which include texts and pictures.
 
-### What new
+### What's new
 Added scroll bars to prevent content overflow when large amounts of data exceed the screen size.
 
 Support for saving and loading Configuration.
